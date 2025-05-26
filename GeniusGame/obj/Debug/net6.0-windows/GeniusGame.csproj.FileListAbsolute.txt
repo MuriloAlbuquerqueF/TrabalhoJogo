@@ -1,0 +1,16 @@
+C:\Users\chara\Downloads\GeniusGame\bin\Debug\net6.0-windows\GeniusGame.exe
+C:\Users\chara\Downloads\GeniusGame\bin\Debug\net6.0-windows\GeniusGame.deps.json
+C:\Users\chara\Downloads\GeniusGame\bin\Debug\net6.0-windows\GeniusGame.runtimeconfig.json
+C:\Users\chara\Downloads\GeniusGame\bin\Debug\net6.0-windows\GeniusGame.dll
+C:\Users\chara\Downloads\GeniusGame\bin\Debug\net6.0-windows\GeniusGame.pdb
+C:\Users\chara\Downloads\GeniusGame\obj\Debug\net6.0-windows\GeniusGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chara\Downloads\GeniusGame\obj\Debug\net6.0-windows\GeniusGame.AssemblyInfoInputs.cache
+C:\Users\chara\Downloads\GeniusGame\obj\Debug\net6.0-windows\GeniusGame.AssemblyInfo.cs
+C:\Users\chara\Downloads\GeniusGame\obj\Debug\net6.0-windows\GeniusGame.csproj.CoreCompileInputs.cache
+C:\Users\chara\Downloads\GeniusGame\obj\Debug\net6.0-windows\GeniusGame.dll
+C:\Users\chara\Downloads\GeniusGame\obj\Debug\net6.0-windows\refint\GeniusGame.dll
+C:\Users\chara\Downloads\GeniusGame\obj\Debug\net6.0-windows\GeniusGame.pdb
+C:\Users\chara\Downloads\GeniusGame\obj\Debug\net6.0-windows\GeniusGame.genruntimeconfig.cache
+C:\Users\chara\Downloads\GeniusGame\obj\Debug\net6.0-windows\ref\GeniusGame.dll
+C:\Users\chara\Downloads\GeniusGame\obj\Debug\net6.0-windows\GeniusGame.Form1.resources
+C:\Users\chara\Downloads\GeniusGame\obj\Debug\net6.0-windows\GeniusGame.csproj.GenerateResource.cache
